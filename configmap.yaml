@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: assigment-config
+data:
+   
+  HOST_CONFIG: "0.0.0.0"
